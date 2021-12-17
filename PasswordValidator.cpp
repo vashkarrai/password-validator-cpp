@@ -1,3 +1,6 @@
+
+// Program by Vashkar Rai
+
 #include <iostream>
 #include <string>
 
