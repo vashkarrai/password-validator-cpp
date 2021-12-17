@@ -13,5 +13,5 @@ A simple program in C++ language to check password and verify it meets the requi
 * should contain least 1 special symbol (any)
 
 > Bonus 
-* Display "Strong password" if password if less than 10 characters long. 
+* Display "Strong password" if password is less than 10 characters long. 
 * Display "Super strong password" if password is greater than or equal to 10 characters long. 
