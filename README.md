@@ -1,5 +1,7 @@
 Password Validator - cpp
 ========================
+By: Vashkar Rai
+
 A simple program in C++ language to check password and verify it meets the requirement. 
 
 > Password should meet following requirments
